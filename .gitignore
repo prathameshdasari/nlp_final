@@ -1,0 +1,22 @@
+# Ignore the virtual environment
+env/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore model files (if needed)
+*.pth
+*.h5
+
+# Ignore large dataset files (if applicable)
+data/
+ignore/
